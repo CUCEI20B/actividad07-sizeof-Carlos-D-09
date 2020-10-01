@@ -19,19 +19,19 @@ int main()
     }
     else if(Tipo_Dato=="short")
     {
-        cout<<endl<<sizeof(int)<<endl;
+        cout<<endl<<sizeof(short)<<endl;
     }
     else if(Tipo_Dato=="float")
     {
-        cout<<endl<<sizeof(int)<<endl;
+        cout<<endl<<sizeof(float)<<endl;
     }
     else if(Tipo_Dato=="double")
     {
-        cout<<endl<<sizeof(int)<<endl;
+        cout<<endl<<sizeof(double)<<endl;
     }
     else if(Tipo_Dato=="long")
     {
-        cout<<endl<<sizeof(int)<<endl;
+        cout<<endl<<sizeof(long)<<endl;
     }
     else
     {
